@@ -13,7 +13,7 @@ This is a Automation Simple Project About Saucedemo.
 1. Clone the repository:
 
     ```bash
-    git clone git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/yourusername/your-repo.git](https://github.com/Praataamaa/automation-test.git
     ```
 
 2. Navigate to the project directory:
